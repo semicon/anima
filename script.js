@@ -1,4 +1,5 @@
 /** Dump Truck Loading Animation **/
+window.addEventListener("DOMContentLoaded", loading)
 function loading() {
   let percents = [0.25, 0.5, 0.75, 1];
   let step = 0;
